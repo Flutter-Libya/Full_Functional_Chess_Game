@@ -1,16 +1,27 @@
-# chess
+# Chess Flutter App
 
-A new Flutter project.
+![Chess App Image](./chess.png)
 
-## Getting Started
+Welcome to our Chess Flutter App repository! This project is a fully functional chess game, developed using Flutter. It allows you to play a classic game of chess on your device with an easy-to-use and aesthetically pleasing interface.
 
-This project is a starting point for a Flutter application.
+## Overview
 
-A few resources to get you started if this is your first Flutter project:
+Our chess game offers a smooth and immersive gameplay experience. It contains all the rules and functionalities of a standard chess game, so you can enjoy a realistic match. The application's main goal is to allow users to enjoy chess in a digital environment while maintaining the authenticity and complexity of the game.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This app is designed to cater to everyone, from beginners to expert players. New players can take advantage of this app to learn the game and practice, while advanced players can use it to hone their skills.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Features
+
+- **Interactive Chessboard**: The game has an 8x8 grid representing the chessboard. Each square on the board is interactive, allowing players to make moves by tapping on the chess pieces and then the destination square.
+
+- **Valid Move Highlights**: The app automatically highlights all valid moves for a selected piece, aiding players in strategizing their next move.
+
+- **Check and Checkmate Detection**: The app can recognize both 'check' and 'checkmate' situations, notifying players when their king is under threat or when the game is over.
+
+- **Captured Pieces Display**: All captured pieces are displayed on the screen, giving players an overview of the pieces taken by both sides.
+
+- **Turn Indication**: The app indicates whose turn it is, helping players keep track of the game flow.
+
+- **Reset Game**: There is a feature to reset the game, allowing players to start over at any time.
+
+We hope you enjoy this chess game! Happy gaming!
